@@ -1,45 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yueyangqd.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-02-25T18:33:38.568Z</updated>
+    <title>无</title>
+    <updated>2021-02-25T21:27:09.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yueyangqd.github.io"/>
     <link rel="self" href="https://yueyangqd.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>日常碎碎念</subtitle>
     <logo>https://yueyangqd.github.io/images/avatar.png</logo>
     <icon>https://yueyangqd.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, 无</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://yueyangqd.github.io/post/hello-gridea/</id>
-        <link href="https://yueyangqd.github.io/post/hello-gridea/">
+        <title type="html"><![CDATA[早春时候]]></title>
+        <id>https://yueyangqd.github.io/post/zao-chun-shi-hou/</id>
+        <link href="https://yueyangqd.github.io/post/zao-chun-shi-hou/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+        <updated>2021-02-25T14:20:01.000Z</updated>
+        <content type="html"><![CDATA[<p>今天回到家的时候出了一身汗，突然意识到自从我来了德国以后，比今天还要暖和的日子其实并不多。<br>
+阳光对于德国的冬天来说是一件奢侈品，但这半个月却忽然像是搞了一场大促销，早上七点准时出摊，到晚上五点多才收摊回家，天天如此，从不缺席。异常充沛的阳光，让我这个许久没有晒过太阳的人，感到分外上瘾，甚至在几天前出现了戒断的症状——每当太阳将要落山的时候，往往比以前更加让人感到忧郁，站在西边的阳台上，贪婪的吸取最后一缕阳光，然后夜幕四合，心情分外低落。如果那几天让我回答从未拥有和拥有之后再次失去哪个更让人难受，我可能会选择后者——毕竟再往前几天，大雪把窗户封的严严实实，一点儿外面的景色都看不见的时候，反而没有感到那么难受。<br>
+跟日照量一起极速反弹的还有温度，半个月前春节的时候，德国的气温跌到了零下19度，是这个冬季最冷的时候，转过来几天便是艳阳高照，然后气温一路上窜到了十几度——今天中午出门的时候是十七度，虽然刻意换了薄外套，但是天气显然比我想象的要更暖和，最后回到家里还是不可避免的出了一身汗。<br>
+去年这个时候可没有这样的好光景，一直都是阴雨连绵，我还记得2月27号那天还下了一场雪，雪下的很大。那天舒晨没有去实验室，二月以来第一次一个人回家，习惯了两个人一起吃饭逛超市坐公交车回家，突然又变成一个人，心里有一种怅然若失的感觉。<br>
+那段日子两个人放学以后一起去超市买东西是一种日常，我也以为这个日常会一直继续下去。一年前的2月26号，德国疫情再度开始，那天晚上回家看到政府号召大家屯粮，但是半个小时前在Kaufland里面，我和舒晨逛了半天都没有想好要买什么东西，最后一人抱了一桶冰淇淋回家，那大概是我们买东西最少的一次了。<br>
+那是去年我跟她倒数第二次逛Kaufland，后面3月6号实验结束的那天，两个人逛了最后一次。当我们俩再次在Kaufland门口见面的时候，已经是一年以后了。<br>
+是的，间隔了将近一年，今天我又跟舒晨一起在kaufland里面买菜了。只是这次大家都带着口罩，捂得严严实实。社交软件确实拉近了人与人之间的距离，虽然中间隔了了快一年，两个人也有大半年没见面，但是还是像平常一样，说着前两天发生的事情，她跟我讲她妈妈在楼下遇到的流浪母猫，我跟她说前两天是怎么让学校里的猫统一给我摸的，好像只是不久前刚见过面一样。<br>
+当然我们确实前两天刚刚见过面，只不过那次有些匆忙和令人沮丧。这两年舒晨在2月21/22号的时候都特别不顺利。去年有机实验被人莫名其妙的塞了化合物，心情被搞的一团糟，最后只能退出。今年无机化学的考试并不顺利，两个考官没有按照常理出牌，最后挂了科。这个时候不知道怎么样去安慰她才好，只能尽量帮她散散心，缓解一下焦虑的情绪，大概就像我当初有机挂科的时候她安慰我一样。接下来她还有有机实验和物化考试要面对，今天把我录好的Libuda上课的视频拷给她，希望可以尽可能的给她帮一点忙吧。<br>
+从超市里出来沿着铁路外面走回家，一路上顶着太阳，有一点儿在家里时候暖洋洋的感觉了，迎面吹来的是温暖柔和的风，春天快要来了。<br>
+回到家里舒晨告诉我她之前一直担心的德语考试通过了，有惊无险，这算是这几天听到的好消息了。<br>
+刷朋友圈看到奶哥的有机口试也通过了，这样在帕德伯恩的所有考试都通过了，毕业在望。<br>
+万物复苏，春天不远了。<br>
+希望一切事情都顺利啊。<br>
+<img src="http://i2.tiimg.com/733716/087ed6d8539d2d0d.jpg" alt="Markdown" loading="lazy"><br>
+<img src="http://i2.tiimg.com/733716/06e91a320bf693e4.jpg" alt="Markdown" loading="lazy"><br>
+<img src="http://i2.tiimg.com/733716/b39ac5fe3c3b1fa5.jpg" alt="Markdown" loading="lazy"><br>
+<img src="http://i2.tiimg.com/733716/c7c011fa5262f76e.jpg" alt="Markdown" loading="lazy"><br>
+<img src="http://i2.tiimg.com/733716/1977b10f2888583a.jpg" alt="Markdown" loading="lazy"><br>
+<img src="http://i2.tiimg.com/733716/844318a15c40f2c6.jpg" alt="Markdown" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[重更]]></title>
+        <id>https://yueyangqd.github.io/post/chong-geng/</id>
+        <link href="https://yueyangqd.github.io/post/chong-geng/">
+        </link>
+        <updated>2021-02-25T14:17:32.000Z</updated>
+        <content type="html"><![CDATA[<p>自打上一个服务器过期之后，博客就再也没有恢复，期间朝阳给我发过服务器打折的消息，但是等我想起来的时候折扣已经结束了，于是建站的事情不了了之。<br>
+前段时间，因为一点儿意外手机被恢复了出厂设置，我丢掉了从2019年2月到2021年2月手机上所有的照片，还有最近一整年的微信聊天记录。靠着之前留下来的记录，尽可能的还原了一些曾经的生活片段，那个时刻有一种失忆的感觉，然后意识到了记录的重要性。<br>
+前几天下载了一个日记软件，打算把一些日常的图片和事情记录下来，本来想顺便同步到lofter上面，但是发现lofter现在实在是不太稳定，在网上找免费的博客网站，意外发现了GitHub也支持自己搭建博客网站，而且不要钱，所以就有了这个小网站。<br>
+这个网站不知道可以坚持多久，不过至少不用担心服务器到期什么的半途放弃，现在朋友圈发的越来越少，倒是可以把这里当成一个朋友圈的替代品——虽然没人看就是了，不过这样也好，反倒可以发一些平常在朋友圈里不会发的东西。<br>
+好了，不多废话，就此开始吧。</p>
 ]]></content>
     </entry>
 </feed>
