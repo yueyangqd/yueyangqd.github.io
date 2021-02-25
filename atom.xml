@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yueyangqd.github.io</id>
     <title>无</title>
-    <updated>2021-02-25T21:27:09.738Z</updated>
+    <updated>2021-02-25T21:35:43.670Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yueyangqd.github.io"/>
     <link rel="self" href="https://yueyangqd.github.io/atom.xml"/>
@@ -42,7 +42,7 @@
         <id>https://yueyangqd.github.io/post/chong-geng/</id>
         <link href="https://yueyangqd.github.io/post/chong-geng/">
         </link>
-        <updated>2021-02-25T14:17:32.000Z</updated>
+        <updated>2021-02-25T07:17:32.000Z</updated>
         <content type="html"><![CDATA[<p>自打上一个服务器过期之后，博客就再也没有恢复，期间朝阳给我发过服务器打折的消息，但是等我想起来的时候折扣已经结束了，于是建站的事情不了了之。<br>
 前段时间，因为一点儿意外手机被恢复了出厂设置，我丢掉了从2019年2月到2021年2月手机上所有的照片，还有最近一整年的微信聊天记录。靠着之前留下来的记录，尽可能的还原了一些曾经的生活片段，那个时刻有一种失忆的感觉，然后意识到了记录的重要性。<br>
 前几天下载了一个日记软件，打算把一些日常的图片和事情记录下来，本来想顺便同步到lofter上面，但是发现lofter现在实在是不太稳定，在网上找免费的博客网站，意外发现了GitHub也支持自己搭建博客网站，而且不要钱，所以就有了这个小网站。<br>
